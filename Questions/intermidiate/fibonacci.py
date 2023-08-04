@@ -3,3 +3,5 @@
 Input = 8
 Output = 13
 '''
+def fibonacci(n):
+    pass
