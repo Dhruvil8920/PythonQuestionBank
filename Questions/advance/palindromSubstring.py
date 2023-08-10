@@ -3,5 +3,5 @@ Input = 'babcdef'
 Output= 'bab'
 '''
 
-def longpalindrome():
+def longpalindrome(str):
     pass
